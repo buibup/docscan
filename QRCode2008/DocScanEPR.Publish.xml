@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Shared\Deploy\DocScanEpr" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/CrystalDecisions.Shared.dll" publishTime="10/24/2010 04:56:40" />
+    <file relUrl="bin/DocScanEPR.pdb" publishTime="03/21/2017 10:01:49" />
+    <file relUrl="Web.config" publishTime="03/21/2017 10:01:30" />
+    <file relUrl="Default.aspx" publishTime="08/21/2015 12:47:17" />
+    <file relUrl="bin/DocScanEPR.dll" publishTime="03/21/2017 10:01:49" />
+    <file relUrl="bin/MessagingToolkit.QRCode.dll" publishTime="10/22/2014 09:12:58" />
+    <file relUrl="bin/CrystalDecisions.ReportSource.dll" publishTime="10/24/2010 04:56:40" />
+    <file relUrl="bin/CrystalDecisions.CrystalReports.Engine.dll" publishTime="10/24/2010 04:56:38" />
+  </publishProfile>
+</publishData>

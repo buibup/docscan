@@ -1,0 +1,12 @@
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\DocScanEPR.dll.config
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\DocScanEPR.dll
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\DocScanEPR.pdb
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\CrystalDecisions.ReportSource.dll
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\CrystalDecisions.Shared.dll
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\CrystalDecisions.Windows.Forms.dll
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\bin\stdole.dll
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\obj\Release\DocScanEPR.csprojFakesResolveAssemblyReference.cache
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\obj\Release\DocScanEPR.csprojResolveAssemblyReference.cache
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\obj\Release\DocScanEPR.dll
+D:\Shared\SVN\DocScan\DocScanEPR\QRCode2008\obj\Release\DocScanEPR.pdb
